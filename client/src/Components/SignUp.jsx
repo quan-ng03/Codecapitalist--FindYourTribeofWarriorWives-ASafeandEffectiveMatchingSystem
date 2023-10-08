@@ -43,13 +43,13 @@ export default function SignUp() {
         <div className="flex flex-col">
           <span className="font-semibold">Password</span>
           <input
-            type="text"
+            type="password"
             placeholder=""
             className="border px-1 rounded border-gray-400 h-8 "
           ></input>
           <span className="font-semibold pt-2">Confirm Password</span>
           <input
-            type="text"
+            type="password"
             placeholder=""
             className="border px-1 rounded border-gray-400 h-8"
           ></input>
